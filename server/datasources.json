@@ -1,0 +1,18 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MongoDB": {
+    "host": "",
+    "port": 0,
+    "url":"",
+    "database":"loopback-project",
+    "user":"",
+    "password":"",
+    "name": "MongoDB",
+    "localStorage": "",
+    "file": "",
+    "connector": "mongodb"
+  }
+}
